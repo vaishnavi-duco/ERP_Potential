@@ -122,12 +122,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     -webkit-box-shadow: none;
     box-shadow: none;
     background: transparent; }
-.counter-center{
-    display: flex;
-width: 150px;
-/*   margin: 40px auto; */
-  
-}
 
 .gutter-v1 {
   margin-right: -20px;
@@ -1077,7 +1071,8 @@ width: 150px;
   -webkit-box-shadow: 20px 20px 0 0 #107be9;
   box-shadow: 20px 20px 0 0 #107be9;
   overflow: hidden;
-  border-radius: 20px; }
+  border-radius: 20px; 
+}
   .quick-contact .ul-links li, .custom-box .ul-links li {
     margin-bottom: 20px; }
 
@@ -1401,7 +1396,7 @@ width: 150px;
   margin-bottom: 30px; }
 
 .site-footer {
-/*  background: #fafafa;*/
+  background: #fafafa;
   font-size: 14px;
   color: #888;
   padding: 70px 0; }
